@@ -4,6 +4,5 @@ The purpose of this program is to calculate NxN size magic squares. The program 
 
 
  
-## Course Description
-All projects handle the various problems that were presented in CS 202 at UNLV while completing my degree in computational physics 
+
 
