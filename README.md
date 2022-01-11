@@ -17,6 +17,6 @@
 
 
  
-## Course Description
-All projects handle the various problems that were presented in CS 202 at UNLV while completing my degree in computational physics 
+## Notes
+Most of my projects were either written in Microsoft Visual Studios or Emacs using both Ubuntu and Linux environments.
 
