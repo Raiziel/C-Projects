@@ -3,7 +3,7 @@
 
 
     
-## Topics Covered
+## Topics Covered in CS 202 
 |Week # | Subjects|
 |------|:--------:|
 |1     |Switch Statement & Functions / Function Overloading|
