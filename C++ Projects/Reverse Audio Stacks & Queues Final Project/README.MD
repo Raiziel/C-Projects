@@ -1,4 +1,4 @@
 # Program: Audio Reverser
 ## Description
 
-This program was written to be used to import any audio file and play it in reverse through using stacks and queues.
+The purpose of this program is import audio files and play them in reverse.
