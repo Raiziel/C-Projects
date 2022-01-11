@@ -1,8 +1,6 @@
 # Nicholas Munoz C++ Project Repo
 ## C++ Problems using varied methods 
-|Instructor| Prof. Qiang Zhu|
-|Email | qiang.zhu@unlv.edu|
-|Website|http://www.physics.unlv.edu/~qzhu/|
+
 
     
 ## Topics Covered
